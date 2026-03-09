@@ -1,0 +1,28 @@
+ filmes.json
+{
+  "filmes":[
+    {"titulo":"Vingadores Ultimato","categoria":"filme","link":"https://player.com/vingadores"},
+    {"titulo":"Homem Aranha Sem Volta Para Casa","categoria":"filme","link":"https://player.com/homemaranha"},
+    {"titulo":"Avatar","categoria":"filme","link":"https://player.com/avatar"},
+    {"titulo":"Titanic","categoria":"filme","link":"https://player.com/titanic"},
+    {"titulo":"Interestelar","categoria":"filme","link":"https://player.com/interestelar"},
+
+    {"titulo":"Breaking Bad","categoria":"serie","link":"https://player.com/breakingbad"},
+    {"titulo":"La Casa de Papel","categoria":"serie","link":"https://player.com/lacasadepapel"},
+    {"titulo":"Stranger Things","categoria":"serie","link":"https://player.com/strangerthings"},
+    {"titulo":"The Walking Dead","categoria":"serie","link":"https://player.com/walkingdead"},
+    {"titulo":"Game of Thrones","categoria":"serie","link":"https://player.com/got"},
+
+    {"titulo":"Naruto","categoria":"anime","link":"https://player.com/naruto"},
+    {"titulo":"One Piece","categoria":"anime","link":"https://player.com/onepiece"},
+    {"titulo":"Attack on Titan","categoria":"anime","link":"https://player.com/aot"},
+    {"titulo":"Dragon Ball Z","categoria":"anime","link":"https://player.com/dbz"},
+    {"titulo":"Death Note","categoria":"anime","link":"https://player.com/deathnote"},
+
+    {"titulo":"Round 6","categoria":"dorama","link":"https://player.com/round6"},
+    {"titulo":"All of Us Are Dead","categoria":"dorama","link":"https://player.com/allofusaredead"},
+    {"titulo":"Vincenzo","categoria":"dorama","link":"https://player.com/vincenzo"},
+    {"titulo":"Goblin","categoria":"dorama","link":"https://player.com/goblin"},
+    {"titulo":"Itaewon Class","categoria":"dorama","link":"https://player.com/itaewon"}
+  ]
+}
